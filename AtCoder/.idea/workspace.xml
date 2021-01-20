@@ -10,7 +10,11 @@
   <component name="FavoritesManager">
     <favorites_list name="AtCoder" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1id64vNSeWQDqSjTMjBlH4jtIC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootcamp for Beginners/hard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice/Bootcamp for Beginners/hard" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -31,11 +35,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice/Bootcamp for Beginners/hard" />
       <recent name="$PROJECT_DIR$/Bootcamp for Beginners/hard" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/茶埋め" />
       <recent name="$PROJECT_DIR$/キーエンス プログラミング コンテスト 2021" />
-      <recent name="$PROJECT_DIR$/Bootcamp for Beginners/medium" />
-      <recent name="$PROJECT_DIR$/Bootcamp for Beginners" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -64,20 +68,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611027968700">
+    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611109566320">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1611027968700" />
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-370.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1608344908509" />
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/-1920.-129.1920.1057@0.23.1680.1027" timestamp="1602857058273" />
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1608408974296" />
-    <state x="349" y="177" key="SettingsEditor" timestamp="1610637125347">
+    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1611109566320" />
+    <state x="349" y="177" key="SettingsEditor" timestamp="1611115798530">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="349" y="177" key="SettingsEditor/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610512193363" />
     <state x="349" y="175" key="SettingsEditor/-1920.-370.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1609898076533" />
     <state x="349" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1608930201716" />
-    <state x="349" y="177" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1610637125347" />
+    <state x="349" y="177" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1611115798530" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1607006164753">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
