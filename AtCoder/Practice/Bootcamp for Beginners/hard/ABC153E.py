@@ -14,17 +14,18 @@
 # 魔法は何回使ってもいいので，個数制限なしのナップザックだ！
 
 # ------------------- Answer --------------------
-code:python
-    h, n = map(int, input().split())
-    ab = [[int(i) for i in input().split()] for _ in range(n)]
-    inf = float('INF')
-    dp = [inf for _ in range(h+1)]
-    dp[0] = 0
+#code:python
 
-    for i in range(1, h+1):
-        for a, b in ab:
-            dp[i] = min(dp[i], dp[max(0, i-a)] + b)
-    print(dp[h])
+h, n = map(int, input().split())
+ab = [[int(i) for i in input().split()] for _ in range(n)]
+inf = float('INF')
+dp = [inf for _ in range(h+1)]
+dp[0] = 0
+
+for i in range(1, h+1):
+    for a, b in ab:
+        dp[i] = min(dp[i], dp[max(0, i-a)] + b)
+print(dp[h])
 
 # ------------------ Sample Input -------------------
 9 3
