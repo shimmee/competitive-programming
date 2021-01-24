@@ -11,32 +11,32 @@
 # xがiからj個あるということなので，x*(j-i+1)でansを更新していく
 
 # ------------------- Answer --------------------
-#code:python
+code:python
 
-n = int(input())
-a = list(map(int, input().split()))
+    n = int(input())
+    a = list(map(int, input().split()))
 
-ans = 0
-for i in range(n):
-    now = a[i]
-    for j in range(i, n):
-        if now <= a[j]:
-            ans = max(ans, now * (j - i + 1))
-        else:
-            now = a[j]
-print(ans)
+    ans = 0
+    for i in range(n):
+        now = a[i]
+        for j in range(i, n):
+            if now <= a[j]:
+                ans = max(ans, now * (j - i + 1))
+            else:
+                now = a[j]
+    print(ans)
 
-# きれいに書く
-n = int(input())
-a = list(map(int, input().split()))
+    # きれいに書く
+    n = int(input())
+    a = list(map(int, input().split()))
 
-ans = 0
-for i in range(n):
-    x = a[i]
-    for j in range(i, n):
-        x = min(x, a[j])
-        ans = max(ans, x*(j-i+1))
-print(ans)
+    ans = 0
+    for i in range(n):
+        x = a[i]
+        for j in range(i, n):
+            x = min(x, a[j])
+            ans = max(ans, x*(j-i+1))
+    print(ans)
 
 
 
