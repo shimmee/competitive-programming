@@ -37,10 +37,12 @@ while que:
             que.append([Y, X])
 print(max([max(i) for i in dist]))
 # ------------------ Sample Input -------------------
+
 3 3
 ...
 .#.
 ...
+
 
 6 6
 ..#..#
