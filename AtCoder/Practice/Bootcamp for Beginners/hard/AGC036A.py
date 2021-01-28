@@ -2,7 +2,7 @@
 # Bootcamp For Beginners - Hard
 # URL: https://atcoder.jp/contests/agc036/tasks/agc036_a
 # Date: 2021/01/26
-1146
+
 # ---------- Ideas ----------
 # 頂点の1つは原点でよさそう? -> そうとも限らない
 # 辺が有理数のときS = x*y: Sの約数でともに10**9より小さいa,bがあればOK
@@ -14,48 +14,25 @@
 # a^2+b^2=x^2となるようなaとbの長さがわかれば，適当に座標を設定すればいい
 #
 
+# 解説見ました
+# 1つは原点に固定，残りの2つの座標を(a,b), (c,d)とすると，S=|a*d-b*c|と表せる
+# a=10**9に固定して，b=1と固定すれば，あとはdとcで帳尻を合わせてSを作れる
+# S = 10**9 * d - b
+# つまり，Sを10**9で割ったときの商がbで，余りが-d
+# 10を3で割った時に商3，余り1となるが，今回は余りが負なので，商がceilである必要がある。
+# 10を3で割って，3.333となるが，ceilで4になる。余りは-2
+
 # ------------------- Solution --------------------
 #
 
 # ------------------- Answer --------------------
 #code:python
-def prime_factorize(n: int):
-    # 試し割り法による素因数分解
-    # https://en.wikipedia.org/wiki/Trial_division
-    factors = []
-    while n % 2 == 0:
-        factors.append(2)
-        n //= 2
-    f = 3 # 奇数でどんどん割っていって，素数を探す。
-    while f * f <= n:
-        if n % f == 0:
-            factors.append(f)
-            n //= f # nをfで割って減らす。
-        else:
-            f += 2 # 奇数なので+2ずつ足していく。
-    if n != 1: factors.append(n)
-    # Only odd number is possible
-    return factors
 
 S = int(input())
-prime_factorize(S)
-
-
-
-l = []
-for a in range(1, 10):
-    for b in range(1, 10):
-        l.append(a**2+b**2)
-set(l)
-
-
-x1=314159265
-y1=358979323
-x2=846264338
-y2=327950288
-
-import math
-math.sqrt((x1-x2)**2 + (y1-y2)**2)
+a, b = 10**9, 1
+d = (S+a-1)//a
+c = a*d - S
+print(0, 0, a, b, c, d)
 
 # ------------------ Sample Input -------------------
 3
@@ -64,13 +41,21 @@ math.sqrt((x1-x2)**2 + (y1-y2)**2)
 
 
 # ----------------- Length of time ------------------
-#
+# 1時間で解説AC
 
 # -------------- Editorial / my impression -------------
-#
+# https://img.atcoder.jp/agc036/editorial.pdf
+# とても大変だった。
+# 座標から三角形の面積を求められるというのが今回の教訓
+# こういう「条件を満たす何かを作る」問題を構築問題と呼ぶらしい
 
 # ----------------- Category ------------------
 #AtCoder
 #BootcampForBeginners-hard
 #AC_with_editorial #解説AC
 #wanna_review #hard復習 #復習したい
+#三角形の面積
+#小さいところで帳尻を合わせる
+#AGC-A
+#O(1)
+#構築問題
