@@ -23,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice/Bootcamp for Beginners/hard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -35,9 +35,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Practice/Bootcamp for Beginners/hard" />
       <recent name="$PROJECT_DIR$/Bootcamp for Beginners/hard" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/茶埋め" />
       <recent name="$PROJECT_DIR$/キーエンス プログラミング コンテスト 2021" />
     </key>
