@@ -48,9 +48,6 @@ for i in range(rest):
 print(now+1)
 
 
-
-
-
 # ------------------ Sample Input -------------------
 5 3
 2 3 4 5 6
