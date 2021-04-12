@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a833d65-d738-4a77-9ed4-2e1af53e0bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC103D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC103D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC137D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC142E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/12日目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC051D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC073D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC105D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC114D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC152E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC159E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC170E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC174E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC176D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC184F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC011C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC014C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC017C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC034C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC039B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC045B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +58,39 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practice/水埋め" />
+      <recent name="$PROJECT_DIR$/Practice/典型90問/" />
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/Practice/茶緑埋め" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Practice/Bootcamp for Beginners/hard" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="scratch_359" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_359.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_359" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -77,29 +118,68 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611549382530">
+    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618085244261">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1611027968700" />
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-370.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1608344908509" />
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1608408974296" />
     <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1611549382530" />
-    <state x="349" y="177" key="SettingsEditor" timestamp="1616887537294">
+    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618085244261" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1618142006946">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618142006946" />
+    <state width="1878" height="168" key="GridCell.Tab.0.bottom/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1618142006945">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618142006945" />
+    <state width="1878" height="168" key="GridCell.Tab.0.center/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485324" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1618142006944">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618142006944" />
+    <state width="1878" height="168" key="GridCell.Tab.0.left/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485323" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1618142006946">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618142006946" />
+    <state width="1878" height="168" key="GridCell.Tab.0.right/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485324" />
+    <state width="1878" height="168" key="GridCell.Tab.1.bottom" timestamp="1618108485326">
+      <screen x="1680" y="-222" width="1920" height="1055" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618096061231" />
+    <state width="1878" height="168" key="GridCell.Tab.1.bottom/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485326" />
+    <state width="1878" height="168" key="GridCell.Tab.1.center" timestamp="1618108485325">
+      <screen x="1680" y="-222" width="1920" height="1055" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618096061229" />
+    <state width="1878" height="168" key="GridCell.Tab.1.center/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
+    <state width="1878" height="168" key="GridCell.Tab.1.left" timestamp="1618108485325">
+      <screen x="1680" y="-222" width="1920" height="1055" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618096061229" />
+    <state width="1878" height="168" key="GridCell.Tab.1.left/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
+    <state width="1878" height="168" key="GridCell.Tab.1.right" timestamp="1618108485325">
+      <screen x="1680" y="-222" width="1920" height="1055" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618096061230" />
+    <state width="1878" height="168" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
+    <state x="349" y="177" key="SettingsEditor" timestamp="1618191787801">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="349" y="177" key="SettingsEditor/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610512193363" />
     <state x="349" y="175" key="SettingsEditor/-1920.-370.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1609898076533" />
-    <state x="349" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1608930201716" />
     <state x="349" y="177" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1615606581343" />
-    <state x="349" y="177" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1616887537294" />
+    <state x="349" y="177" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618191787801" />
     <state width="957" height="513" key="XDebugger.FullValuePopup" timestamp="1611026787478">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="957" height="513" key="XDebugger.FullValuePopup/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1611026787478" />
-    <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612494165633">
+    <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618165801292">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1612494165633" />
+    <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618165801292" />
     <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617413987995">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
