@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a833d65-d738-4a77-9ed4-2e1af53e0bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/16日目.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC096D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC126E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC019B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC024B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC030B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/Indeedなう（予選A）C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/scratch_378.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC191E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/AGC024B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/CODE FESTIVAL 2014 Easy C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/天下一プログラマーコンテスト2015予選B B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/djikstra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice/水埋め" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice/典型90問" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -48,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Practice/水埋め" />
       <recent name="$PROJECT_DIR$/Practice/典型90問" />
+      <recent name="$PROJECT_DIR$/Practice/水埋め" />
+      <recent name="$PROJECT_DIR$/../Library" />
       <recent name="$PROJECT_DIR$/Practice/典型90問/" />
       <recent name="$PROJECT_DIR$/.." />
-      <recent name="$PROJECT_DIR$/Practice/茶緑埋め" />
     </key>
   </component>
   <component name="RunManager">
@@ -155,13 +154,12 @@
     </state>
     <state width="1878" height="168" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618246347155" />
     <state width="1878" height="168" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
-    <state x="349" y="177" key="SettingsEditor" timestamp="1618191787801">
+    <state x="349" y="177" key="SettingsEditor" timestamp="1619104415514">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="349" y="177" key="SettingsEditor/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610512193363" />
-    <state x="349" y="175" key="SettingsEditor/-1920.-370.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1609898076533" />
     <state x="349" y="177" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1615606581343" />
-    <state x="349" y="177" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618191787801" />
+    <state x="349" y="177" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1619104415514" />
     <state width="957" height="513" key="XDebugger.FullValuePopup" timestamp="1611026787478">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -176,11 +174,11 @@
     </state>
     <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1615072193289" />
     <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1617413987995" />
-    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup" timestamp="1618370313352">
+    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup" timestamp="1618973143057">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/-1920.-368.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610942558384" />
     <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1615734094202" />
-    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618370313352" />
+    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618973143057" />
   </component>
 </project>
