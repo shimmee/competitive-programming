@@ -1,4 +1,4 @@
-# 典型90問022 -
+# 典型90問022 - Cubic Cake
 # URL: https://github.com/E869120/kyopro_educational_90/blob/main/sample/022.txt
 # Date: 2021/04/22
 
@@ -30,9 +30,9 @@ print(sum([s//d - 1 for s in S]))
 #
 
 # -------------- Editorial / my impression -------------
-#
+# https://github.com/E869120/kyopro_educational_90/blob/main/editorial/022.jpg
 
 # ----------------- Category ------------------
 #AtCoder
-#AC_with_editorial #解説AC
-#wanna_review #hard復習 #復習したい
+#GCD
+#最大公約数

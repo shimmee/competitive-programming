@@ -1,5 +1,5 @@
 # 典型90問 12日目
-# URL: https://github.com/E869120/kyopro_educational_90/blob/main/problem/012.jpg
+# URL: https://atcoder.jp/contests/typical90/tasks/typical90_l
 # Date: 2021/04/11
 
 # ---------- Ideas ----------
@@ -7,11 +7,11 @@
 # O(Q)でクエリ処理しなきゃいけない
 # グリッドのセルをグラフの頂点と見なして，union-findで隣接するセルをunionしてグループ化すればよさそう
 # セルにidを振る必要がある: 1-indexedで id = w*(y-1) + x と表せる
+# 0-indexならid = w*y+x
 # 隣接マスが訪問済みなら同じグループに入れられる
 
 # ------------------- Answer --------------------
 #code:python
-
 class UnionFind():
     def __init__(self, n):
         self.n = n
@@ -67,13 +67,13 @@ class UnionFind():
 dydx = [[0, 1], [1, 0], [0, -1], [-1, 0]]
 h, w = map(int, input().split())
 Q = int(input())
-uf = UnionFind(h*w+1)
-seen = [False]*(h*w+1)
+uf = UnionFind(h*w)
+seen = [False]*(h*w)
 for _ in range(Q):
-    p = list(map(int, input().split()))
-    if p[0] == 1: # クエリをufに追加
-        x, y = p[1], p[2]
-        id = w*(y-1) + x
+    q = list(map(int, input().split()))
+    if q[0] == 1: # クエリをufに追加
+        y, x = q[1] - 1, q[2] - 1
+        id = w*y + x
         seen[id] = True
 
         # 隣接マスが訪問済みなら同じグループに入れられる
@@ -81,14 +81,14 @@ for _ in range(Q):
             Y = y + dy
             X = x + dx
             if 0 <= Y < h and 0 <= X < w:
-                id_adj = w * (Y - 1) + X
+                id_adj = w * Y + X
                 if seen[id_adj]:
                     if uf.same(id, id_adj): continue
                     uf.unite(id, id_adj)
     else: # 陸続きの判定クエリ
-        sx, sy, gx, gy = p[1], p[2], p[3], p[4]
-        sid = w * (sy - 1) + sx # スタート地点のid
-        gid = w * (gy - 1) + gx # ゴール地点のid
+        sy, sx, gy, gx = q[1] - 1, q[2] - 1, q[3] - 1, q[4] - 1
+        sid = w * sy + sx # スタート地点のid
+        gid = w * gy + gx # ゴール地点のid
         if seen[sid] and seen[gid] and uf.same(sid, gid):
             print('Yes')
         else:
@@ -123,6 +123,7 @@ for _ in range(Q):
 # -------------- Editorial / my impression -------------
 # グリッドのunion-findは初めてかも
 # 実装が結構重かった
+# 1-indexedで書くとバグったので0-indexedで書き直した
 
 # ----------------- Category ------------------
 #AtCoder
