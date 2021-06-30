@@ -2,28 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a833d65-d738-4a77-9ed4-2e1af53e0bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC176E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ABC185E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/ARC/ARC122B/ARC122B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC005C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/水埋め/ARC085D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Menuの100万円山分けチャレンジ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typical DP Contest B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/典型90問/12日目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/典型90問/16日目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/典型90問/典型90問022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/アルゴリズムとデータ構造.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/アルゴリズムとデータ構造.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/典型90問/典型90問026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/典型90問/典型90問026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +68,14 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practice/典型90問" />
+      <recent name="$PROJECT_DIR$/Contest/ARC/ARC122B" />
+      <recent name="$PROJECT_DIR$/../" />
       <recent name="$PROJECT_DIR$/Practice/水埋め" />
       <recent name="$PROJECT_DIR$/../Library" />
-      <recent name="$PROJECT_DIR$/Practice/典型90問/" />
-      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="scratch_359" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch_359" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +96,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.scratch_359" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -143,51 +144,58 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="426" y="137" key="CommitChangelistDialog2/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620620524105" />
-    <state width="1638" height="87" key="GridCell.Tab.0.bottom" timestamp="1620564249207">
+    <state width="1638" height="101" key="GridCell.Tab.0.bottom" timestamp="1624708891409">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="87" key="GridCell.Tab.0.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620564249207" />
+    <state width="1638" height="87" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1624123179225" />
+    <state width="1638" height="101" key="GridCell.Tab.0.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1624708891409" />
     <state width="1878" height="168" key="GridCell.Tab.0.bottom/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
-    <state width="1638" height="87" key="GridCell.Tab.0.center" timestamp="1620564249206">
+    <state width="1638" height="101" key="GridCell.Tab.0.center" timestamp="1624708891407">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="87" key="GridCell.Tab.0.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620564249206" />
+    <state width="1638" height="87" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1624123179224" />
+    <state width="1638" height="101" key="GridCell.Tab.0.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1624708891407" />
     <state width="1878" height="168" key="GridCell.Tab.0.center/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485324" />
-    <state width="1638" height="87" key="GridCell.Tab.0.left" timestamp="1620564249205">
+    <state width="1638" height="101" key="GridCell.Tab.0.left" timestamp="1624708891406">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="87" key="GridCell.Tab.0.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620564249205" />
+    <state width="1638" height="87" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1624123179224" />
+    <state width="1638" height="101" key="GridCell.Tab.0.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1624708891406" />
     <state width="1878" height="168" key="GridCell.Tab.0.left/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485323" />
-    <state width="1638" height="87" key="GridCell.Tab.0.right" timestamp="1620564249207">
+    <state width="1638" height="101" key="GridCell.Tab.0.right" timestamp="1624708891408">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="87" key="GridCell.Tab.0.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620564249207" />
+    <state width="1638" height="87" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1624123179225" />
+    <state width="1638" height="101" key="GridCell.Tab.0.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1624708891408" />
     <state width="1878" height="168" key="GridCell.Tab.0.right/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485324" />
-    <state width="1878" height="168" key="GridCell.Tab.1.bottom" timestamp="1618246347155">
+    <state width="1638" height="101" key="GridCell.Tab.1.bottom" timestamp="1621971659930">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1878" height="168" key="GridCell.Tab.1.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618246347155" />
+    <state width="1638" height="101" key="GridCell.Tab.1.bottom/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621971659930" />
     <state width="1878" height="168" key="GridCell.Tab.1.bottom/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485326" />
-    <state width="1878" height="168" key="GridCell.Tab.1.center" timestamp="1618246347154">
+    <state width="1638" height="101" key="GridCell.Tab.1.center" timestamp="1621971659929">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1878" height="168" key="GridCell.Tab.1.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618246347154" />
+    <state width="1638" height="101" key="GridCell.Tab.1.center/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621971659929" />
     <state width="1878" height="168" key="GridCell.Tab.1.center/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
-    <state width="1878" height="168" key="GridCell.Tab.1.left" timestamp="1618246347154">
+    <state width="1638" height="101" key="GridCell.Tab.1.left" timestamp="1621971659929">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1878" height="168" key="GridCell.Tab.1.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618246347154" />
+    <state width="1638" height="101" key="GridCell.Tab.1.left/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621971659929" />
     <state width="1878" height="168" key="GridCell.Tab.1.left/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
-    <state width="1878" height="168" key="GridCell.Tab.1.right" timestamp="1618246347155">
+    <state width="1638" height="101" key="GridCell.Tab.1.right" timestamp="1621971659929">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1878" height="168" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1618246347155" />
+    <state width="1638" height="101" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621971659929" />
     <state width="1878" height="168" key="GridCell.Tab.1.right/1680.-222.1920.1055/0.25.1680.1025@1680.-222.1920.1055" timestamp="1618108485325" />
-    <state x="349" y="177" key="SettingsEditor" timestamp="1620621496199">
+    <state x="532" y="115" key="SettingsEditor" timestamp="1623766825769">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="349" y="177" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1615606581343" />
-    <state x="349" y="177" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620621496199" />
+    <state x="532" y="115" key="SettingsEditor/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1623766825769" />
+    <state x="692" y="457" key="VCS.ChangelistChooser" timestamp="1621109968569">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="692" y="457" key="VCS.ChangelistChooser/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621109968569" />
     <state width="1373" height="512" key="XDebugger.FullValuePopup" timestamp="1620521743626">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -195,17 +203,15 @@
     <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620528393175">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1612494165633" />
     <state x="382" y="160" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620528393175" />
-    <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617413987995">
+    <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624582072704">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1615072193289" />
-    <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1617413987995" />
-    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup" timestamp="1620619775371">
+    <state x="626" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1624582072704" />
+    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup" timestamp="1624124600459">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1615734094202" />
-    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1620619775371" />
+    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/-1102.333.1102.717/0.25.1680.1025@0.25.1680.1025" timestamp="1624124600459" />
+    <state x="925" y="252" width="670" height="675" key="search.everywhere.popup/1680.-222.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1621167521044" />
   </component>
 </project>
